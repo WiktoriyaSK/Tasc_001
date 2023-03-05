@@ -1,0 +1,15 @@
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\bin\Debug\net6.0\Tasc_001.exe
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\bin\Debug\net6.0\Tasc_001.deps.json
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\bin\Debug\net6.0\Tasc_001.runtimeconfig.json
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\bin\Debug\net6.0\Tasc_001.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\bin\Debug\net6.0\Tasc_001.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.csproj.AssemblyReference.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.AssemblyInfoInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.AssemblyInfo.cs
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.csproj.CoreCompileInputs.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\refint\Tasc_001.dll
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.pdb
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\Tasc_001.genruntimeconfig.cache
+C:\Users\rain6\OneDrive\Рабочий стол\Dz_001\Tasc_001\obj\Debug\net6.0\ref\Tasc_001.dll
